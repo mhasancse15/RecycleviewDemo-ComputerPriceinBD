@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorBackroundWhite">#f0f2ea</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+
+    <color name="black1">#9607ea</color>
+
+    <color name="lightgray">#e0e0e0e0</color>
+    <color name="colorLogin">#a30100</color>
+    <color name="bg_gradient_start">#fe5600</color>
+    <color name="bg_gradient_end">#a30100</color>
+</resources>
